@@ -23,20 +23,27 @@ brew install watchman
 ### Step 2: Creating a new Application
 Now all the dependencies are installed, and we can create our new Application. Run this command to create a new React Native App
 
+### Expo
+```javascript
+npm install --global expo-cli
+expo init cosmosdb-react-native
+```
+
+### React Native
 ```javascript
 npx react-native init cosmosdb-react-native
 ```
 
-This command will create a new project named AwesomeProject. If you used "gem" to install CocoaPods, you would also need to run the pod command to install all the dependencies.
+This command will create a new project named cosmosdb-react-native. If you used "gem" to install CocoaPods, you would also need to run the pod command to install all the dependencies.
 
-### Step 3: Running App through Command line
-* First, navigate to the project folder. cd AwesomeProject
+#### Running App through Command line
+* First, navigate to the project folder. cd cosmosdb-react-native
 then execute this command to run the app in simulator next react-native run-ios
 * Running App through Xcode
-* Go to your App folder, then go to the iOS folder. You'll see a file named AwesomeProject.xcworkspace.
+* Go to your App folder, then go to the iOS folder. You'll see a file named cosmosdb-react-native.xcworkspace.
 * Open this file, and it will open your app in Xcode. Select the desired simulator and click the ▶️ button to run your app. and Tadaaa!! 🎉 🎊 https://www.npmjs.com/package/react-native-azure-cosmos
   
-### Step 4: Install CosmosDB package
+### Step 3: Install CosmosDB package
 https://github.com/Azure/azure-sdk-for-js/tree/master/sdk/cosmosdb/cosmos
 
 NodeJS
