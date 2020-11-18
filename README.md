@@ -1,6 +1,9 @@
 # React Native + CosmosDB
+![Image of Cosmos Db + React Native](https://github.com/jay-most/cosmosdb-react-native/blob/master/assets/splash_image.png)
 
-Building a mobile application with Cosmos DB and React Native is simple… let's give it the old college try :$. First, we need to set up our environment. I use a Mac, so adjust accordingly. To setup up our environment, we need a few things React Native, Expo, Yarn, snack (optional), and Cosmo Db keys.
+Building a mobile application with Cosmos DB and React Native is simple… let's give it the old college try :$. First, we need to set up our environment. I use a Mac, so adjust accordingly. To setup up our environment, we need a few things React Native, Expso, Yarn, snack (optional), and Cosmo Db keys.
+
+![Image of Cosmos Db + React Native](https://github.com/jay-most/cosmosdb-react-native/)
 
 ## Prerequisites
 
@@ -81,4 +84,4 @@ const querySpec = {
 ```
 
 ### Source
-https://github.com/jay-most/AwesomeProject
+https://github.com/jay-most/cosmosdb-react-native
