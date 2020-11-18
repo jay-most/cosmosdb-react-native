@@ -79,11 +79,14 @@ const containerId = 'Items'
 const client = new CosmosClient({ endpoint, key })
 ```
 ## Create the query spec
+```javascript
 const querySpec = {
   query: 'SELECT * from c'
 };
+```
 
 ## Create an instance of CosmosClient
+```javascript
       const response = client
         .database(databaseId)
         .container(containerId)
