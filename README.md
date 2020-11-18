@@ -1,10 +1,8 @@
-# React Native + CosmosDB
-![Image of Cosmos Db + React Native](https://github.com/jay-most/cosmosdb-react-native/blob/master/assets/splash_image.png)
-
+# CosmosDB + React Native
+<img src="https://github.com/jay-most/cosmosdb-react-native/blob/master/assets/splash_image.png">
 Building a mobile application with Cosmos DB and React Native is simple… let's give it the old college try :$. First, we need to set up our environment. I use a Mac, so adjust accordingly. To setup up our environment, we need a few things React Native, Expso, Yarn, snack (optional), and Cosmo Db keys.
 
-![Image of Cosmos Db + React Native](https://github.com/jay-most/cosmosdb-react-native/)
-
+<img src="https://github.com/jay-most/cosmosdb-react-native/blob/master/images/Screen%20Shot%202020-11-18%20at%206.00.48%20AM.png" width="283" height="507">
 ## Prerequisites
 
 ### Step 1: Installing Node and Watchman
