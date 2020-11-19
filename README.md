@@ -41,7 +41,7 @@ This command will create a new project named cosmosdb-react-native. If you used 
 then execute this command to run the app in simulator next react-native run-ios
 * Running App through Xcode
 * Go to your App folder, then go to the iOS folder. You'll see a file named cosmosdb-react-native.xcworkspace.
-* Open this file, and it will open your app in Xcode. Select the desired simulator and click the ▶️ button to run your app. and Tadaaa!! 🎉 🎊 https://www.npmjs.com/package/react-native-azure-cosmos
+* Open this file, and it will open your app in Xcode. Select the desired simulator and click the ▶️ button to run your app. and Tadaaa!! 🎉 🎊 
   
 ### Step 3: Install CosmosDB package
 https://github.com/Azure/azure-sdk-for-js/tree/master/sdk/cosmosdb/cosmos
