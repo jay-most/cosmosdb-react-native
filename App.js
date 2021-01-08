@@ -17,8 +17,8 @@ import 'react-native-get-random-values'
 const CosmosClient = require('@azure/cosmos').CosmosClient
 const Tab = createBottomTabNavigator();
 
-const endpoint = 'endpoint'
-const key = 'key'
+const endpoint = //get your endpoint securely here
+const key = //get your master key securely here
 const databaseId = 'ToDoList'
 const containerId = 'Items'
 
