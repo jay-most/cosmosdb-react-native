@@ -18,13 +18,13 @@ const CosmosClient = require('@azure/cosmos').CosmosClient
 const Tab = createBottomTabNavigator();
 
 const endpoint = //get your endpoint securely here
-const key = //get your master key securely here
+const authResourceToken = //get your auth or resource token securely here from a token broker on the server
 const databaseId = 'ToDoList'
 const containerId = 'Items'
 
 const Stack = createStackNavigator();
 
-const client = new CosmosClient({endpoint, key});
+const client = new CosmosClient({endpoint, authResourceToken});
 
 const querySpec = {
     query: 'SELECT * from c',
